@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hey there! I'm Abhinay Sahu
+# Hey there! I'm Abhinay Sahu
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9745F5&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Mobile+App+Developer+%F0%9F%93%B1;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -120,7 +120,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
-### ✨ Thanks for visiting! Let's build something amazing together! ✨
+### ✨ Thanks for visiting! ✨
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
