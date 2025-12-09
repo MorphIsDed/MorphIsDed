@@ -1,8 +1,24 @@
 <div align="center">
   
-# Hey there! I'm Abhinay Sahu
+#  ✨ Hey there! I'm Abhinay Sahu ✨
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9745F5&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Mobile+App+Developer+%F0%9F%93%B1;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Turning+Ideas+into+Reality;Code+%7C+Design+%7C+Innovation;Building+the+Future+One+Commit+at+a+Time" alt="Typing SVG 2" />
+  
+### 🌐 Connect With Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhynayy) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhinay-sahu-677846319/) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahuabhinay317@gmail.com)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -11,16 +27,12 @@
 ---
 
 <div align="center">
-  
-### 🌐 Connect With Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhynayy) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhinay-sahu-677846319/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahuabhinay317@gmail.com)
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Tech+Stack+%F0%9F%9B%A0%EF%B8%8F;Tools+I+Work+With" alt="Tech Stack" />
 
 </div>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -40,6 +52,10 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="600">
 
 ### Frontend
 
@@ -63,14 +79,20 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-### Design & Tools
+### CMS & Design Tools
 
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+### Other Tools
+
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
 </div>
 
@@ -80,29 +102,38 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=GitHub+Statistics+%F0%9F%93%8A;My+Coding+Journey" alt="Stats Title" />
+
 ## 📊 GitHub Statistics
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MorphIsDed&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false" />
 <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=MorphIsDed&theme=synthwave&hide_border=false" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MorphIsDed&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=MorphIsDed&theme=synthwave-84&hide_border=false" />
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MorphIsDed&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="600">
 
 </div>
 
 ---
 
 <div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=GitHub+Achievements+%F0%9F%8F%86;Unlocking+Milestones" alt="Achievements Title" />
 
 ## 🏆 GitHub Achievements
 
-![](https://github-profile-trophy.vercel.app/?username=MorphIsDed&theme=synthwave&no-frame=false&no-bg=false&margin-w=4&row=1&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=MorphIsDed&theme=synthwave&no-frame=false&no-bg=true&margin-w=4" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
 ---
 
 <div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Watch+My+Contributions+%F0%9F%90%8D;Getting+Eaten+by+the+Snake!" alt="Snake Title" />
 
 ## 🐍 Contribution Snake
 
@@ -112,6 +143,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MorphIsDed/MorphIsDed/output/github-contribution-grid-snake.svg">
 </picture>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="600">
+
 </div>
 
 ---
@@ -120,7 +153,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
-### ✨ Thanks for visiting! ✨
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=20&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Thanks+for+Visiting!+%E2%9C%A8;Let's+Build+Something+Amazing!+%F0%9F%9A%80;Feel+Free+to+Reach+Out!+%F0%9F%91%8B" alt="Footer Typing" />
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
