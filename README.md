@@ -42,7 +42,7 @@ Right now I'm focused on:
 - 🟣 &nbsp; Native Android apps with **Kotlin + Jetpack Compose**
 - 🔵 &nbsp; Full-stack web products with **MERN Stack**
 - ⚪ &nbsp; Scalable RAG architectures with **Semantic Search & Custom Chunking Strategies**
-- 🟢 &nbsp; Embedded IoT systems via **Arduino**
+- 🟢 &nbsp; End-to-end ML systems — data pipelines, model training & inference at scale
 
 > *I believe the best interfaces disappear — leaving only the experience.*
 
