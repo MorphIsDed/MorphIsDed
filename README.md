@@ -40,8 +40,8 @@ I'm a **BCA student** (4th semester) who builds things that live at the intersec
 Right now I'm focused on:
 
 - 🟣 &nbsp; Native Android apps with **Kotlin + Jetpack Compose**
-- 🔵 &nbsp; Full-stack web products with **React + Django**
-- ⚪ &nbsp; Real-time 3D scenes with **WebGL / custom GPU shaders**
+- 🔵 &nbsp; Full-stack web products with **MERN Stack**
+- ⚪ &nbsp; Scalable RAG architectures with **Semantic Search & Custom Chunking Strategies**
 - 🟢 &nbsp; Embedded IoT systems via **Arduino**
 
 > *I believe the best interfaces disappear — leaving only the experience.*
